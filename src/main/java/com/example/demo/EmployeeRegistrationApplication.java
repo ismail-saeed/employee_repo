@@ -13,7 +13,7 @@ public class EmployeeRegistrationApplication {
 	public String message()
 	{
 		
-		return "Employee created succsfuly .....";
+		return "Employee created succsfuly using azure";
 	}
 	
 	
